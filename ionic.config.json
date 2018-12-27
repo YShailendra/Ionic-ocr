@@ -1,7 +1,7 @@
 {
-  "name": "ocr-app",
+  "name": "PoC:OCR App",
   "integrations": {
     "cordova": {}
   },
-  "type": "angular"
+  "type": "ionic-angular"
 }
